@@ -1,0 +1,4 @@
+name: CommandParserAPI
+main: com.mooviies.commandparserapi.CommandParserAPI
+version: 1.0
+author: mooviies
